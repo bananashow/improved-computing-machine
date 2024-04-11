@@ -127,7 +127,7 @@ const styles = StyleSheet.create({
   description: {
     fontSize: 80,
     marginTop: -20,
-    color: '#92d9f5',
+    color: '#fff',
   },
 
   tinyText: {
