@@ -9,8 +9,8 @@
 <br /><br />
 
 ## 🎈학습
-- react-native/expo의 개발 환경 구축
-- react-native의 기본 components를 둘러봄 (ScrollView, StyleSheet, Text, View, Dimensions, ActivityIndicator 등..)
+- react-native/expo 개발 환경 구축
+- react-native의 기본 components를 둘러봄
 - expo SDK를 둘러봄
 - Expo Location 사용해 봄
 - Expo icons 사용해 봄
